@@ -4,13 +4,21 @@ Hi 👋 My name is Marcos Vazquez
 Software Developer
 ------------------
 
-Software developer, over 3 years of experience building web applications, mainly on Php and Java. I have also worked developing API's with enterprise version of java specifically with the framewok Spring. Dedicated and efficient full stack developer with 3+ years experience in application layers, presentation layers, and databases.
+Software developer, over 3 years of experience building web applications, mainly on Php and Java. 
+
+I have also worked developing API's with enterprise version of java specifically with the framewok Spring.
+
+Dedicated and efficient full stack developer with 3+ years experience in application layers, presentation layers, and databases.
+
+</br>
 
 *   🌍  I'm based in Queretaro, Mx.
 *   ✉️  You can contact me at [marcos.sis90@gmail.com](mailto:marcos.sis90@gmail.com)
 *   🧠  I'm learning Python and Go
 *   🤝  I'm open to collaborating on Services backend with spring, frontend with Angular and Web development
 *   ⚡  I like the picture
+
+</br>
 
 <a href="https://www.twitter.com/marcos_vzq" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/marcos_vzq?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
